@@ -16,7 +16,7 @@ Analista de Suporte em transição para áreas de desenvolvimento e dados, focad
 ### 📁 Meus Projetos em Destaque
 - [**Fixador de Fontes Linx**](https://github.com/LuisFregati/fixador-fontes-linx): Automação em Python para resolver desalinhamento de relatórios via instalador executável.
 - [**Gestão de Banca SQL**](https://github.com/LuisFregati/gestao-banca-sql): Banco de dados com Triggers automáticas para controle de apostas esportivas.
-- ### 📊 [Gestão de Banca de Apostas](https://github.com/LuisFregati/gestao-banca-sql)
+- [Gestão de Banca de Apostas](https://github.com/LuisFregati/gestao-banca-sql)
 Sistema automatizado que utiliza triggers em **PostgreSQL** para cálculos financeiros e um dashboard em **Python** (Pandas/Matplotlib) para análise de ROI.
 - **Destaque:** Integração segura de sistemas utilizando variáveis de ambiente e automação de processos em banco de dados.
 
